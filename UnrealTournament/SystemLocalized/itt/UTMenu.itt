@@ -799,7 +799,7 @@ QuitTitle="Conferma Uscita"
 ; EN: QuitText="Are you sure you want to Quit?"
 QuitText="Sei sicuro di voler uscire?"
 ; You can translate the following line, but we won't tell you anything if you choose not to do so, as it's a deprecated line.
-DemoQuitText="Grazie per aver giocato all demo di Unreal Tournament.  Visita il nostro sito web per informazioni sulla versione completa del gioco, che contiene 7 diversi tipi di gioco e oltre 50 livelli!\\n\\nVuoi visitare il sito web di Unreal Tournament adesso?"
+DemoQuitText="Grazie per aver giocato alla demo di Unreal Tournament.  Visita il nostro sito web per informazioni sulla versione completa del gioco, che contiene 7 diversi tipi di gioco e oltre 50 livelli!\\n\\nVuoi visitare il sito web di Unreal Tournament adesso?"
 
 [SpeechBinderWindow]
 ; EN: WindowTitle="Speech Binder"
