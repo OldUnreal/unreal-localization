@@ -1,0 +1,6 @@
+﻿[Public]
+Object=(Name=FruCoReDrv.FruCoReRenderDevice,Class=Class,MetaClass=Engine.RenderDevice)
+Preferences=(Caption="Supporto Apple Metal",Parent="Rendering",Class=FruCoReDrv.FruCoReRenderDevice,Immediate=True)
+
+[FruCoReRenderDevice]
+ClassCaption="Supporto Apple Metal"

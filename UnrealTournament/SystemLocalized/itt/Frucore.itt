@@ -1,0 +1,8 @@
+﻿[Public]
+Object=(Name=Frucore.FrucoreRenderDevice,Class=Class,MetaClass=Engine.RenderDevice)
+Preferences=(Caption="Supporto Apple Metal",Parent="Rendering",Class=Frucore.FrucoreRenderDevice,Immediate=True,Category="Opzioni")
+
+[FrucoreRenderDevice]
+ClassCaption="Supporto Apple Metal"
+AskInstalled="Hai una scheda grafica che supporta le API Metal di Apple?"
+AskUse="Vuoi che Unreal Tournament usi Apple Metal?"
