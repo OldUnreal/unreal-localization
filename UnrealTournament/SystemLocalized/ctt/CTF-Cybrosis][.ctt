@@ -1,4 +1,4 @@
-﻿[LevelInfo0]
+[LevelInfo0]
 ; EN: Title="Cybrosis Central ]["
 Title="Cibrosi Central ]["
 IdealPlayerCount="4-12"
@@ -92,7 +92,7 @@ ZoneName="Pas Inferior Vermell"
 ZoneName="Pas Inferior Blau"
 
 [SpecialEvent1]
-; EN: DamageString="%K made a shocking mistake"
+; EN: DamageString="%k made a shocking mistake"
 DamageString="%k ha comès un error electritzant"
 
 [LevelSummary]
@@ -101,5 +101,5 @@ Title="Cibrosi Central ]["
 IdealPlayerCount="4-12"
 
 [SpecialEvent11]
-; EN: DamageString="%K made a shocking mistake"
+; EN: DamageString="%k made a shocking mistake"
 DamageString="%k ha comès un error electritzant"

@@ -1,4 +1,4 @@
-﻿[LevelInfo0]
+[LevelInfo0]
 ; EN: Title="Cybrosis Central ]["
 Title="Κέντρο Cybrosis ]["
 IdealPlayerCount="4-12"
@@ -92,8 +92,8 @@ ZoneName="Υπόγεια διάβαση Κόκκινο"
 ZoneName="Υπόγεια διάβαση Μπλε"
 
 [SpecialEvent1]
-; EN: DamageString="%K made a shocking mistake"
-DamageString="%K έκανε ένα σοκαριστικό λάθος"
+; EN: DamageString="%k made a shocking mistake"
+DamageString="%k έκανε ένα σοκαριστικό λάθος"
 
 [LevelSummary]
 ; EN: Title="Cybrosis Central ]["
@@ -101,5 +101,5 @@ Title="Κέντρο Cybrosis ]["
 IdealPlayerCount="4-12"
 
 [SpecialEvent11]
-; EN: DamageString="%K made a shocking mistake"
-DamageString="%K έκανε ένα σοκαριστικό λάθος"
+; EN: DamageString="%k made a shocking mistake"
+DamageString="%k έκανε ένα σοκαριστικό λάθος"

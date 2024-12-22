@@ -1,4 +1,4 @@
-﻿[LevelInfo0]
+[LevelInfo0]
 Title="Cybrosis Central ]["
 IdealPlayerCount="4-12"
 
@@ -69,11 +69,11 @@ ZoneName="Underpassage Red"
 ZoneName="Underpassage Blue"
 
 [SpecialEvent1]
-DamageString="%K made a shocking mistake"
+DamageString="%k made a shocking mistake"
 
 [LevelSummary]
 Title="Cybrosis Central ]["
 IdealPlayerCount="4-12"
 
 [SpecialEvent11]
-DamageString="%K made a shocking mistake"
+DamageString="%k made a shocking mistake"

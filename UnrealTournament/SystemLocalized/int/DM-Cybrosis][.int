@@ -1,4 +1,4 @@
-﻿[LevelInfo0]
+[LevelInfo0]
 Title="Cybrosis Central ]["
 IdealPlayerCount="3-8"
 
@@ -12,11 +12,11 @@ PointName="Center Point"
 PointName="Far Point"
 
 [SpecialEvent1]
-DamageString="%K made a shocking mistake"
+DamageString="%k made a shocking mistake"
 
 [LevelSummary]
 Title="Cybrosis Central ]["
 IdealPlayerCount="3-8"
 
 [SpecialEvent3]
-DamageString="%K didn't manage to keep the Damage Amplifier"
+DamageString="%k didn't manage to keep the Damage Amplifier"

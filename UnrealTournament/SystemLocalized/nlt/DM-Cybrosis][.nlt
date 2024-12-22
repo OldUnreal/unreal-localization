@@ -16,7 +16,7 @@ PointName="Middelpunt"
 PointName="Verre punt"
 
 [SpecialEvent1]
-; EN: DamageString="%K made a shocking mistake"
+; EN: DamageString="%k made a shocking mistake"
 DamageString="%k heeft een schokkende fout gemaakt"
 
 [LevelSummary]
@@ -25,5 +25,5 @@ Title="Cybrosis Centraal ]["
 IdealPlayerCount="3-8"
 
 [SpecialEvent3]
-; EN: DamageString="%K didn't manage to keep the Damage Amplifier"
+; EN: DamageString="%k didn't manage to keep the Damage Amplifier"
 DamageString="%k is er niet in geslaagd om de Schade Versterker te behouden"

@@ -1,4 +1,4 @@
-﻿[Errors]
+[Errors]
 ; EN: MissingProductTitle="%ls can't be %ls in this folder"
 MissingProductTitle="%ls ne peut pas être %ls dans ce dossier"
 ; EN: MissingProductInstalled="installed"
@@ -194,7 +194,7 @@ IDC_DeveloperText="Développeur:"
 
 [IDDIALOG_FilerPageUninstall]
 ; EN: IDC_UninstallPrompt="This will uninstall the following components:"
-IDC_UninstallPrompt="Ceci va supprimer %ls:"
+IDC_UninstallPrompt="Ceci va supprimer:"
 ; EN: IDC_UninstallQuestion="Are you sure you want to remove these components?"
 IDC_UninstallQuestion="Êtes-vous sûr de vouloir supprimer ces composants?"
 

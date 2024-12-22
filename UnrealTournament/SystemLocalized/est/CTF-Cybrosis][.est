@@ -92,8 +92,8 @@ ZoneName="Pasaje Inferior Rojo"
 ZoneName="Pasaje Inferior Azul"
 
 [SpecialEvent1]
-; EN: DamageString="%K made a shocking mistake"
-DamageString="%K cometió un error electrificante."
+; EN: DamageString="%k made a shocking mistake"
+DamageString="%k cometió un error electrificante."
 
 [LevelSummary]
 ; EN: Title="Cybrosis Central ]["
@@ -101,5 +101,5 @@ Title="Central Cybrosis ]["
 IdealPlayerCount="4-12"
 
 [SpecialEvent11]
-; EN: DamageString="%K made a shocking mistake"
-DamageString="%K cometió un error electrificante."
+; EN: DamageString="%k made a shocking mistake"
+DamageString="%k cometió un error electrificante."

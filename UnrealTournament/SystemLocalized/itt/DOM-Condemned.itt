@@ -1,4 +1,4 @@
-﻿[LevelInfo0]
+[LevelInfo0]
 ; EN: Title="Condemned"
 Title="Condannato"
 IdealPlayerCount="6"
@@ -50,7 +50,7 @@ ZoneName="Vicoli"
 
 [ScrollingMessageTexture0]
 ; EN: ScrollingMessage="TONIGHT 10:00PM EST... %p LEADS HIS UNDEFEATED TEAM %h INTO THE CONDEMNED ARENA"
-ScrollingMessage="QUESTA NOTTE 10:00PM... %p GUIDA LA SUA INDOMITA SQUADRA NELL'ARENA CONDANNATA"
+ScrollingMessage="QUESTA NOTTE 10:00PM... %p GUIDA LA SUA INDOMITA SQUADRA %h NELL'ARENA CONDANNATA"
 
 [locationid0]
 ; EN: LocationName="Garage"

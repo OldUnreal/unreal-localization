@@ -1,4 +1,4 @@
-﻿[LevelInfo0]
+[LevelInfo0]
 ; EN: Title="Cybrosis Central ]["
 Title="Zentrale Zybrose ]["
 IdealPlayerCount="4-12"
@@ -92,7 +92,7 @@ ZoneName="Unterführung Rot"
 ZoneName="Unterführung Blau"
 
 [SpecialEvent1]
-; EN: DamageString="%K made a shocking mistake"
+; EN: DamageString="%k made a shocking mistake"
 DamageString="%k hat einen schockierenden Fehler gemacht"
 
 [LevelSummary]
@@ -101,5 +101,5 @@ Title="Zentrale Zybrose ]["
 IdealPlayerCount="4-12"
 
 [SpecialEvent11]
-; EN: DamageString="%K made a shocking mistake"
+; EN: DamageString="%k made a shocking mistake"
 DamageString="%k hat einen schockierenden Fehler gemacht"

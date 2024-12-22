@@ -92,7 +92,7 @@ ZoneName="Красный нижний проход"
 ZoneName="Синий нижний проход"
 
 [SpecialEvent1]
-; EN: DamageString="%K made a shocking mistake"
+; EN: DamageString="%k made a shocking mistake"
 DamageString="%k совершил шокирующую ошибку"
 
 [LevelSummary]
@@ -101,5 +101,5 @@ Title="Cybrosis Central ]["
 IdealPlayerCount="4-12"
 
 [SpecialEvent11]
-; EN: DamageString="%K made a shocking mistake"
+; EN: DamageString="%k made a shocking mistake"
 DamageString="%k совершил шокирующую ошибку"

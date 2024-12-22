@@ -1,4 +1,4 @@
-﻿[LevelInfo0]
+[LevelInfo0]
 ; EN: Title="Cybrosis Central ]["
 Title="Cibrosi Central ]["
 IdealPlayerCount="3-8"
@@ -16,7 +16,7 @@ PointName="Central"
 PointName="Llunyà"
 
 [SpecialEvent1]
-; EN: DamageString="%K made a shocking mistake"
+; EN: DamageString="%k made a shocking mistake"
 DamageString="%k ha comès un error electritzant"
 
 [LevelSummary]
@@ -25,5 +25,5 @@ Title="Cibrosi Central ]["
 IdealPlayerCount="3-8"
 
 [SpecialEvent3]
-; EN: DamageString="%K didn't manage to keep the Damage Amplifier"
+; EN: DamageString="%k didn't manage to keep the Damage Amplifier"
 DamageString="%k no s'ha pogut quedar amb l'Amplificador de Danys"

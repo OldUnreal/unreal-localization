@@ -1,4 +1,4 @@
-﻿[Public]
+[Public]
 Object=(Name=Engine.ServerCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Engine.CheckSumCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Engine.GameInfo,Class=Class,MetaClass=Engine.GameInfo)
@@ -255,8 +255,8 @@ Pending="Η σύνδεση σε εκκρεμότητα στο %ls απέτυχε
 LoadPlayerClass="Η φόρτωση της κατηγορίας παίκτη απέτυχε"
 ; EN: ServerOutdated="Server's version is outdated"
 ServerOutdated="Η έκδοση του διακομιστή είναι ξεπερασμένη"
-; EN: ClientOutdated="You need to upgrade to the latest patch version"
-ClientOutdated="Πρέπει να κάνετε αναβάθμιση στην πιο πρόσφατη έκδοση ενημέρωσης κώδικα"
+; EN: ClientOutdated="You need to upgrade to patch version %ls or later to play on this server"
+ClientOutdated="Πρέπει να κάνετε αναβάθμιση σε έκδοση ενημέρωσης κώδικα %ls ή μεταγενέστερη για αναπαραγωγή σε αυτόν τον διακομιστή"
 ; EN: RejectedByServer="Rejected by server"
 RejectedByServer="Απορρίφθηκε από τον διακομιστή"
 ; EN: NetDecompressFail="Error decompressing file %ls"

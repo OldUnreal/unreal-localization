@@ -1,4 +1,4 @@
-﻿[Public]
+[Public]
 Object=(Name=Engine.ServerCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Engine.CheckSumCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Engine.GameInfo,Class=Class,MetaClass=Engine.GameInfo)
@@ -258,8 +258,8 @@ Pending="Connexion en cours à %ls interrompue; %ls"
 LoadPlayerClass="Impossible de charger la classe du joueur"
 ; EN: ServerOutdated="Server's version is outdated"
 ServerOutdated="Le serveur n'est pas à jour"
-; EN: ClientOutdated="You need to upgrade to the latest patch version"
-ClientOutdated="Votre client n'est pas à jouer, installer le dernier patch"
+; EN: ClientOutdated="You need to upgrade to patch version %ls or later to play on this server"
+ClientOutdated="Vous devez effectuer une mise à niveau vers la version de patch %ls ou une version ultérieure pour jouer sur ce serveur"
 ; EN: RejectedByServer="Rejected by server"
 RejectedByServer="Rejeté du serveur"
 ; EN: NetDecompressFail="Error decompressing file %ls"

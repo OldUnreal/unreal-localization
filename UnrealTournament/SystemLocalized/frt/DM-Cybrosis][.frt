@@ -16,7 +16,7 @@ PointName="Central"
 PointName="Lointain"
 
 [SpecialEvent1]
-; EN: DamageString="%K made a shocking mistake"
+; EN: DamageString="%k made a shocking mistake"
 DamageString="%k a fait une erreur choquante"
 
 [LevelSummary]
@@ -25,5 +25,5 @@ Title="Centre Cybrosis ]["
 IdealPlayerCount="3-8"
 
 [SpecialEvent3]
-; EN: DamageString="%K didn't manage to keep the Damage Amplifier"
+; EN: DamageString="%k didn't manage to keep the Damage Amplifier"
 DamageString="%k n'a pas réussi à conserver l'Amplificateur"

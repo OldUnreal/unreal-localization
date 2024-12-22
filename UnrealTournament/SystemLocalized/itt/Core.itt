@@ -1,4 +1,4 @@
-﻿[Public]
+[Public]
 Preferences=(Caption="File System",Parent="Advanced",Class=Core.System,Immediate=True)
 
 [Language]
@@ -70,11 +70,11 @@ TransientImport="Oggetto transitorio importato: %ls."
 ; EN: FailedSavePrivate="Can't save %ls: Graph is linked to external private object %ls."
 FailedSavePrivate="Impossibile salvare %ls: il grafo è collegato ad un oggetto privato esterno %ls."
 ; EN: FailedImportPrivate="Can't import private object %ls %ls."
-FailedImportPrivate="Impossibile trovare l'oggetto privato %ls %ls.%ls."
+FailedImportPrivate="Impossibile trovare l'oggetto privato %ls %ls."
 ; EN: FailedCreate="%ls %ls not found for creation."
 FailedCreate="%ls %ls non trovato per la creazione."
 ; EN: FailedImport="Can't find %ls in file %ls."
-FailedImport="Impossibile trovare %ls %ls nel file %ls."
+FailedImport="Impossibile trovare %ls nel file %ls."
 ; EN: FailedSaveFile="Error saving file %ls: %ls."
 FailedSaveFile="Errore salvando il file %ls: %ls."
 ; EN: SaveWarning="Error saving %ls."

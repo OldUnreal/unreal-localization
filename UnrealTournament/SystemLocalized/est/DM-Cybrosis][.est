@@ -16,8 +16,8 @@ PointName="Centro"
 PointName="Lejano"
 
 [SpecialEvent1]
-; EN: DamageString="%K made a shocking mistake"
-DamageString="%K cometió un error electrificante"
+; EN: DamageString="%k made a shocking mistake"
+DamageString="%k cometió un error electrificante"
 
 [LevelSummary]
 ; EN: Title="Cybrosis Central ]["
@@ -25,5 +25,5 @@ Title="Central Cybrosis ]["
 IdealPlayerCount="3-8"
 
 [SpecialEvent3]
-; EN: DamageString="%K didn't manage to keep the Damage Amplifier"
-DamageString="%K no pudo quedarse con el Amplificador de Daños"
+; EN: DamageString="%k didn't manage to keep the Damage Amplifier"
+DamageString="%k no pudo quedarse con el Amplificador de Daños"

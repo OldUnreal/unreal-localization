@@ -92,8 +92,8 @@ ZoneName="Conduit Souterrain Rouge"
 ZoneName="Conduit Souterrain Bleu"
 
 [SpecialEvent1]
-; EN: DamageString="%K made a shocking mistake"
-DamageString="%K a fait une erreur choquante"
+; EN: DamageString="%k made a shocking mistake"
+DamageString="%k a fait une erreur choquante"
 
 [LevelSummary]
 ; EN: Title="Cybrosis Central ]["
@@ -101,5 +101,5 @@ Title="Centre Cybrosis ]["
 IdealPlayerCount="4-12"
 
 [SpecialEvent11]
-; EN: DamageString="%K made a shocking mistake"
-DamageString="%K a fait une erreur choquante"
+; EN: DamageString="%k made a shocking mistake"
+DamageString="%k a fait une erreur choquante"
