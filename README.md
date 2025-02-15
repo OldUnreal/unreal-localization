@@ -1,1 +1,1 @@
-# This repository has now been archived. The new localization repository is located at https://github.com/OldUnreal/unreal-localization
+# This is the main community localization repository. The old one was archived and moved here.
