@@ -30,7 +30,3 @@ WindowTitle="Digite o nome da demonstração"
 [DownloadFramedWindow]
 ; EN: WindowTitle="Downloading..."
 WindowTitle="Baixando..."
-
-[UDframedwindow]
-; EN: WindowTitle="Unreal Tournament Demo Manager 3.5.1 - By UsAaR33 and AnthraX"
-WindowTitle="Unreal Tournament Demo Manager 3.5.1 - Por UsAaR33 e AnthraX"

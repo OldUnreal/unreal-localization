@@ -1,4 +1,4 @@
-[Errors]
+﻿[Errors]
 ; EN: MissingProductTitle="%ls can't be %ls in this folder"
 MissingProductTitle="%ls ne peut pas être %ls dans ce dossier"
 ; EN: MissingProductInstalled="installed"

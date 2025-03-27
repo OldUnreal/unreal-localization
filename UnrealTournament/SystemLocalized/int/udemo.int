@@ -1,4 +1,4 @@
-﻿[Public]
+[Public]
 Object=(Name=udemo.UDmodItem,Class=Class,MetaClass=UMenu.UMenuModMenuItem)
 
 [DemoPlaybackSpec]
@@ -22,6 +22,3 @@ WindowTitle="Enter Demo Name"
 
 [DownloadFramedWindow]
 WindowTitle="Downloading..."
-
-[UDframedwindow]
-WindowTitle="Unreal Tournament Demo Manager 3.5.1 - By UsAaR33 and AnthraX"

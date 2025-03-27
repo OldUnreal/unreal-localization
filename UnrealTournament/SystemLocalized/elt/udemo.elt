@@ -30,7 +30,3 @@ WindowTitle="Εισαγωγή ονόματος Demo"
 [DownloadFramedWindow]
 	; EN: WindowTitle="Downloading..."
 WindowTitle="Λήψη..."
-
-[UDframedwindow]
-; EN: WindowTitle="Unreal Tournament Demo Manager 3.5.1 - By UsAaR33 and AnthraX"
-WindowTitle="Διαχειριστής Demo Unreal Tournament 3.5.1 - Από τον UsAaR33 και AnthraX"

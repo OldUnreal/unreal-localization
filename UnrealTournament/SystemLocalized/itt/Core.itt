@@ -1,4 +1,4 @@
-[Public]
+﻿[Public]
 Preferences=(Caption="File System",Parent="Advanced",Class=Core.System,Immediate=True)
 
 [Language]
