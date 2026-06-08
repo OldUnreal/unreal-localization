@@ -1,5 +1,5 @@
 ﻿[Public]
-Object=(Name=Galaxy.GalaxyAudioSubsystem,Class=Class,MetaClass=Engine.AudioSubsystem,Compat="Win32")
+Object=(Name=Galaxy.GalaxyAudioSubsystem,Class=Class,MetaClass=Engine.AudioSubsystem,Compat="Win32,Win64")
 Preferences=(Caption="Galaxy 3D",Parent="Audio",Class=Galaxy.GalaxyAudioSubsystem,Immediate=True)
 
 [GalaxyAudioSubsystem]
