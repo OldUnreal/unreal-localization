@@ -8,6 +8,7 @@ Object=(Name=IpDrv.UdpBeacon,Class=Class,MetaClass=Engine.Actor)
 Preferences=(Caption="TCP/IP Network Play",Parent="Networking",Class=IpDrv.TcpNetDriver)
 Preferences=(Caption="Server Beacon",Parent="Networking",Class=IpDrv.UdpBeacon,Immediate=True)
 
+; LEAVE THIS SECTION UNTRANSLATED - it was decided by consensus.
 [UpdateServerCommandlet]
 HelpCmd=updateserver
 HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
@@ -16,6 +17,7 @@ HelpUsage="updateserver [-option...] [parm=value]"
 HelpParm[0]="ConfigFile"
 HelpDesc[0]="Configuration file to use. Default: UpdateServer.ini."
 
+; LEAVE THIS SECTION UNTRANSLATED - it was decided by consensus.
 [MasterServerCommandlet]
 HelpCmd=masterserver
 HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
@@ -24,6 +26,7 @@ HelpUsage="masterserver [-option...] [parm=value]"
 HelpParm[0]="ConfigFile"
 HelpDesc[0]="Configuration file to use. Default: MasterServer.ini."
 
+; LEAVE THIS SECTION UNTRANSLATED - it was decided by consensus.
 [CompressCommandlet]
 HelpCmd=compress
 HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
@@ -32,6 +35,7 @@ HelpUsage="compress File1 [File2 [File3 ...]]"
 HelpParm[0]="Files"
 HelpDesc[0]="The wildcard or file names to compress."
 
+; LEAVE THIS SECTION UNTRANSLATED - it was decided by consensus.
 [DecompressCommandlet]
 HelpCmd=decompress
 HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
