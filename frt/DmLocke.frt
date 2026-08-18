@@ -3,7 +3,7 @@
 Title="Locke"
 IdealPlayerCount="3-6"
 
-[LevelSummary
+[LevelSummary]
 ; EN: Title="Locke"
 Title="Locke"
 IdealPlayerCount="3-6"
